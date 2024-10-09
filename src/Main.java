@@ -9,12 +9,18 @@ public class Main {
         System.out.println(animal.isDog("dog"));
         System.out.println(animal.isDog("Rohit"));
 
+//        Conditions cond = new Conditions();
+//        cond.printAnything();
+
+        DateAndTime dt = new DateAndTime();
+        dt.printDateAndTime();
+
         List<Integer> list = new ArrayList<>();
         list.add(1);
         list.add(2);
         list.add(3);
         list.add(4);
-        System.out.println(list);
+//        System.out.println(list);
 
 //        making variables
         int a = 4;
